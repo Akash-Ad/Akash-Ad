@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, and thank you for visiting
 
-<!--
-**Akash-Ad/Akash-Ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Growing up in 90s India, I saw how technology solved problems that once felt difficult, connecting people and simplifying daily life. That early exposure sparked my curiosity to understand what powered it behind the scenes.
 
-Here are some ideas to get you started:
+With time, that curiosity turned into a craft. I began working with data and building systems that give information structure and purpose. This portfolio reflects that journey and how I aim to use data to create solutions that are practical, reliable, and meaningful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below is a summary of the tools and technologies I have worked with and continue to explore.
+
+
+## 🔧 Technology Stack
+
+### Data Platforms & Storage
+BigQuery · PostgreSQL · MySQL · SQLite
+
+### Core Languages & Scripting
+Python · SQL · Bash · PowerShell
+
+### Data Processing & Engineering
+pandas · PySpark · Docker · Apache Airflow · Cloud Composer
+
+### Data Validation & Workflow Automation
+pydantic · Unit Testing · CI/CD pipelines · Jenkins
+
+### Visualization & Reporting
+Power BI · Tableau · matplotlib · seaborn · Plotly · Bokeh · Dash · Streamlit
+
+### Machine Learning & Modeling
+scikit-learn · statsmodels · TensorFlow · PyTorch
+
+### Serving & APIs
+FastAPI · Docker
+
+### Cloud & DevOps
+Google Cloud Platform (GCP) · Microsoft Azure · Git · GitHub · CI/CD automation
+
+### LLM & Vector Ecosystem
+LangChain · LangSmith · LangGraph · Chroma · Pinecone
